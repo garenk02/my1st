@@ -1,0 +1,51 @@
+body {
+	color: #0F1419;
+	background-color: #FEEEAA;
+	background-image: url('images/Bottom_texture.jpg');
+	background-repeat: repeat-x;	
+	background-attachment: fixed;
+	background-position: top left;
+}
+
+#top {
+	margin-top: 60px ;
+}
+
+#wrapper {
+	width:90%;
+	background:#ffffff;
+	padding:20px;
+	border: 1px solid #3E81A8;
+	margin: 10px 0 50px 0;
+	margin:auto;
+	-webkit-border-radius:5px;
+	   -moz-border-radius:5px;
+	     -o-border-radius:5px;
+		    border-radius:5px;
+}
+
+#header {
+	font-size:16px;
+	font-weight:bold;
+	margin:-20px -20px 20px -20px;
+	padding:10px;
+	border-bottom:1px solid #cccccc;
+}
+
+#footer {
+	min-height:30px;
+	margin:0 -20px -10px -20px;
+	text-align:center;
+	color:#333333;
+	padding: 5px 0 5px 0;
+	font-size:12px;
+	font-weight:400;
+}
+
+.breadcrumb {
+	border:1px solid #dcdcdc;
+}
+
+.ui-widget{
+	font-size:80%;
+}

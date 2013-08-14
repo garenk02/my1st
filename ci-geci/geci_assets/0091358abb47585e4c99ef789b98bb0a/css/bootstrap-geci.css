@@ -1,0 +1,8 @@
+/**
+FlexiGrid
+*/
+.pcontrol input{ margin-top:-4px }
+.pDiv2{ height: 28px; }
+.pButton{ margin-top:3px }
+.required, .error{ color: red }
+.alert{ font-size:90% }
